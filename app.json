@@ -1,7 +1,7 @@
 {
-  "name": "EvoBot",
-  "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
-  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "name": "KyuMusic",
+  "description": "Bot musique de .gg/mya",
+  "repository": "",
+  "logo": "https://cdn.discordapp.com/avatars/731614390905733252/e87b877653172064b31a2bff0eec470a.png?size=512",
   "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
 }
